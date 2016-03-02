@@ -12,7 +12,8 @@ You have to install Chicken and two eggs `dbus` and `vector-lib`. To configure t
 
 ### License
 
-Copyright © 2016 Jakub Sztandera <k.sztandera@protonmail.ch>
+Copyright © 2016 Jakub Sztandera \<k.sztandera@protonmail.ch\>
+
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To But It's Not My Fault, Version1
 as published by Ben McGinnes. See the LICENSE file for more details.
