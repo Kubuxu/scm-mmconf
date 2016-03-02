@@ -11,11 +11,12 @@ Why not? Shells don't have good support for DBus, nor has Lua. Scheme was my nex
 You have to install Chicken and two eggs `dbus` and `vector-lib`. To configure the interface you have to run it from root, it uses `ip` command to configure interface. Don't forget to customize the program with you system configuration.
 
 ### License
-
-Copyright © 2016 Jakub Sztandera \<k.sztandera@protonmail.ch\>
+```
+Copyright © 2016 Jakub Sztandera <k.sztandera@protonmail.ch>
 
 This work is free. You can redistribute it and/or modify it under the
-terms of the Do What The Fuck You Want To But It's Not My Fault, Version1
+terms of the Do What The Fuck You Want To But It's Not My Fault, Version 1
 as published by Ben McGinnes. See the LICENSE file for more details.
+```
 
 
